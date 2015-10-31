@@ -1,2 +1,2 @@
 # homegenie-apps
-Collection of Automation Program Plugins for HomeGenie
+Collection of user-contributed Automation Program Plugins for HomeGenie
