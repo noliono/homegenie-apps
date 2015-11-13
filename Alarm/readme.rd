@@ -1,3 +1,4 @@
+############# AddOn ##############
 Manage the events regardless of the "90-Security" script built in HomeGenie, around  alarm : 
 activated / deactivated / triggered. And doing some severals actions : 
 - Send SMS 
@@ -5,3 +6,12 @@ activated / deactivated / triggered. And doing some severals actions :
 - Switch off the light
 - Move the shutter
 - Activate the webcam detection on "Synology Surveillance Station"
+
+More description here : 
+http://www.homegenie.it/forum/index.php?topic=520.0 
+http://www.homegenie.it/forum/index.php?topic=6.0
+############# Antijamming ##############
+Permit to check two zwave device and alerte in case of Jam the zwave network.
+
+More description here : 
+http://www.homegenie.it/forum/index.php?topic=1015.0
